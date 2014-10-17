@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jil:home|Door43 (jil)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jil|d43-jil repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jil/archive/master.zip|d43-jil.zip]]
+
+**Recent Changes**
+{{changes>ns = jil}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jil|Ethnologue data]]
+
